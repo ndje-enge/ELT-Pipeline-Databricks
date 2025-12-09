@@ -1,6 +1,6 @@
 # 🏅 AtliQon & SportBar Data Integration Pipeline
 
-> **A Databricks-based ETL pipeline for merging and consolidating sports retail data from an acquired company into the parent company's data warehouse.**
+> **A Databricks-based ELT pipeline for merging and consolidating sports retail data from an acquired company into the parent company's data warehouse.**
 
 ---
 
