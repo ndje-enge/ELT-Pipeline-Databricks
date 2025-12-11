@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-**AtliQon**, a leading sports articles retailer, recently acquired **SportBar**, a supplier of sports nutrition and wellness products. This project implements a robust data integration pipeline that:
+AtliQon, a leading sports articles retailer, recently acquired SportBar, a supplier of sports nutrition and wellness products. This project implements a robust data integration pipeline that:
 
 1. **Ingests** SportBar's OLAP data from AWS S3
 2. **Transforms** the data through Bronze → Silver → Gold layers using the Medallion Architecture
